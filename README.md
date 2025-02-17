@@ -8,3 +8,6 @@ Adding Flask code for rendering simple html file with hello world
 
 # Feb 9 - week5 
 Adding code module from https://github.com/microsoft/BotBuilder-Samples/tree/main to add new chat experience and link it with Bot framework emulator
+
+# Feb 16 - week6
+Updating code to add Azure AI API service for sentiment analysis. Edit app.py and config.py
