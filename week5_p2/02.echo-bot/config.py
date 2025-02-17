@@ -15,3 +15,7 @@ class DefaultConfig:
     APP_PASSWORD = os.environ.get("MicrosoftAppPassword", "")
     APP_TYPE = os.environ.get("MicrosoftAppType", "MultiTenant")
     APP_TENANTID = os.environ.get("MicrosoftAppTenantId", "")
+
+    OPENAI_ENDPOINT = os.environ.get("OPENAI_ENDPOINT", "https://w6languageservice.cognitiveservices.azure.com/")
+    print(OPENAI_ENDPOINT)
+    OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY", "")
