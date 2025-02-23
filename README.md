@@ -11,3 +11,6 @@ Adding code module from https://github.com/microsoft/BotBuilder-Samples/tree/mai
 
 # Feb 16 - week6
 Updating code to add Azure AI API service for sentiment analysis. Edit app.py and config.py
+
+# Feb 16 - week7 - residency
+Adding code for chat bot for ATLAS - travel assistant
