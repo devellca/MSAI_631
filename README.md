@@ -14,3 +14,6 @@ Updating code to add Azure AI API service for sentiment analysis. Edit app.py an
 
 # Feb 16 - week7 - residency
 Adding code for chat bot for ATLAS - travel assistant
+
+# Mar 23 - week11 
+Adding code for simple recommendation engine bases on cosine similarity - Iris dataset
