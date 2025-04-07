@@ -17,3 +17,6 @@ Adding code for chat bot for ATLAS - travel assistant
 
 # Mar 23 - week11 
 Adding code for simple recommendation engine bases on cosine similarity - Iris dataset
+
+# Apr 6 - week13
+Adding code for Adaptive UI example basic implementation - Iris dataset
